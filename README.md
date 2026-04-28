@@ -16,5 +16,3 @@ git init
 dvc init
 
 dvc repro
-
-dvc matrics show
