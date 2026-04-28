@@ -13,8 +13,8 @@ pip install -r requirements.txt
 
 git init
 
-dvx init
+dvc init
 
-dvc repro dvc dag
+dvc repro
 
 dvc matrics show
